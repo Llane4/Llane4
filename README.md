@@ -1,4 +1,9 @@
-# Hi there, I'm Leonel
+# Hola, soy Leonel!
+<img align="top" alt="Visual Studio Code" width="600px" src="https://i.pinimg.com/originals/fa/e8/62/fae862fff4f6100d000a1c01c4030db0.jpg" />
+
+
+
+# Full Stack Developer
 
 ## Languages and Tools:
 
