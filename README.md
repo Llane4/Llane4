@@ -1,5 +1,6 @@
+
 # Hola, soy Leonel!
-<img align="top" alt="Visual Studio Code" width="600px" src="https://i.pinimg.com/originals/fa/e8/62/fae862fff4f6100d000a1c01c4030db0.jpg" />
+
 
 
 
@@ -22,8 +23,30 @@
 <br />
 
 ## Mis proyectos
+### [Dogs App](https://github.com/Llane4/-PI-Dogs-FT13)
+Proyecto individual de Henry Bootcamp, 
+desarrollado por mi desde cero
+
+<div>
+<img  alt="HTML5" width="460px" src="https://user-images.githubusercontent.com/78386531/127177389-16d6c220-46da-4c24-9d90-06ff91187dd1.png" />
+<img  alt="HTML5" width="460px" src="https://user-images.githubusercontent.com/78386531/127177568-ab66dc2d-6082-4a4f-8f2a-e0a3f97a963f.png" />
+<img alt="HTML5" width="460px" src="https://user-images.githubusercontent.com/78386531/127177668-d1221f09-e35f-4d8c-935e-c06651261e1f.png" />
+<img  alt="HTML5" width="460px" src="https://user-images.githubusercontent.com/78386531/127178720-e4dc4cb4-b298-4ab7-8bba-51380866d018.png" />
+</div>
 
 
+### Tecnologias usadas en el front
+
+React.js y Redux.js
+
+### Tecnologias usadas en el back
+
+Sequelize, Express ,NodeJs y PostgresSQL
+
+### [Clases | E-Commerce](https://github.com/DiegoAraujoJS/PF_E-Commerce)
+Proyecto grupal final de Henry Bootcamp
+
+Participación en un equipo de desarrollo ágil con sprints de una semana presentándole a un Product Owner avances sobre el desarrollo de una app completa de un E-commerce
 ## Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
