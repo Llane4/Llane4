@@ -51,10 +51,10 @@ Proyecto grupal final de Henry Bootcamp
 Participación en un equipo de desarrollo ágil con sprints de una semana presentándole a un Product Owner avances sobre el desarrollo de una app completa de un E-commerce
 
 <div>
-<img  alt="HTML5" width="460px" src="https://user-images.githubusercontent.com/78386531/127190049-39886743-5e39-4282-939a-30e342ed1790.png" />
-<img  alt="HTML5" width="460px" src="https://user-images.githubusercontent.com/78386531/127190104-aba398d2-2620-4848-a2a4-2d2bd88b2983.png" />
-<img alt="HTML5" width="460px" src="https://user-images.githubusercontent.com/78386531/127190147-47e19215-7f58-4136-b063-76d6fb271c74.png" />
-<img  alt="HTML5" width="460px" src="https://user-images.githubusercontent.com/78386531/127190191-f698f5bb-281d-4def-8168-9722e3329521.png" />
+<img  alt="HTML5" width="360px" src="https://user-images.githubusercontent.com/78386531/127190049-39886743-5e39-4282-939a-30e342ed1790.png" />
+<img  alt="HTML5" width="360px" src="https://user-images.githubusercontent.com/78386531/127190104-aba398d2-2620-4848-a2a4-2d2bd88b2983.png" />
+<img alt="HTML5" width="360px" src="https://user-images.githubusercontent.com/78386531/127190147-47e19215-7f58-4136-b063-76d6fb271c74.png" />
+<img  alt="HTML5" width="360px" src="https://user-images.githubusercontent.com/78386531/127190191-f698f5bb-281d-4def-8168-9722e3329521.png" />
 </div>
 
 ### Tecnologias usadas en el front
