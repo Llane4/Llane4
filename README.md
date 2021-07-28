@@ -76,7 +76,7 @@ Sequelize, Express, Firebase, NodeJs, PostgresSQL, TypeScript, Stripe
 Llane4/Llane4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[linkedin]: linkedin.com/in/leonel-agustin-llane-02981b209
+[linkedin]: https://linkedin.com/in/leonel-agustin-llane-02981b209
 [html]: https://developer.mozilla.org/es/docs/Web/HTML
 [visual]: https://code.visualstudio.com/
 [javascript]: https://developer.mozilla.org/es/docs/Web/JavaScript
