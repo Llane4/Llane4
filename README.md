@@ -4,9 +4,9 @@
 
 
 
-# Full Stack Developer
+## Full Stack Developer
 
-## Lenguajes y herramientas:
+### Lenguajes y herramientas:
 
 [<img align="left" alt="Visual Studio Code" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visual]
 [<img align="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -22,8 +22,8 @@
 <br />
 <br />
 
-## Mis proyectos
-### [Dogs App](https://github.com/Llane4/-PI-Dogs-FT13)
+### Mis proyectos
+#### [Dogs App](https://github.com/Llane4/-PI-Dogs-FT13)
 Proyecto individual de Henry Bootcamp, 
 desarrollado por mi desde cero
 
@@ -35,17 +35,17 @@ desarrollado por mi desde cero
 </div>
 
 
-### Tecnologias usadas en el front
+#### Tecnologias usadas en el front
 
 React.js y Redux.js
 
-### Tecnologias usadas en el back
+#### Tecnologias usadas en el back
 
 Sequelize, Express ,NodeJs y PostgresSQL
 
 
-## Mi participacion en proyectos grupales
-### [Clases | E-Commerce](https://github.com/DiegoAraujoJS/PF_E-Commerce)
+### Mi participacion en proyectos grupales
+#### [Clases | E-Commerce](https://github.com/DiegoAraujoJS/PF_E-Commerce)
 Proyecto grupal final de Henry Bootcamp
 
 Participación en un equipo de desarrollo ágil con sprints de una semana presentándole a un Product Owner avances sobre el desarrollo de una app completa de un E-commerce
@@ -57,17 +57,17 @@ Participación en un equipo de desarrollo ágil con sprints de una semana presen
 <img  alt="HTML5" width="360px" src="https://user-images.githubusercontent.com/78386531/127190191-f698f5bb-281d-4def-8168-9722e3329521.png" />
 </div>
 
-### Tecnologias usadas en el front
+#### Tecnologias usadas en el front
 
 React.js, Redux.js, Bootstrap, CSS 
 
-### Tecnologias usadas en el back
+#### Tecnologias usadas en el back
 
 Sequelize, Express, Firebase, NodeJs, PostgresSQL, TypeScript, Stripe
 
 
 
-## Connect with me:
+### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="62px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
